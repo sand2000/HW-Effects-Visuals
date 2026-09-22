@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(234, 232, 232);
+}
+
+div{
+    background-color: white;
+    padding: 20px;
+    width: 300px;
+    height: auto;
+    border-radius: 10%;
+    box-shadow: 10px 5px 100px rgb(231, 220, 220);
+}
+
+h1{
+    background-image: linear-gradient(pink,red);
+    filter: grayscale(100%) brightness(0.9) ;
+    padding-inline: 20px;
+    height: 100px;
+    border-radius: 10px;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+
+}
+
+.text{
+    opacity: 0.5;
+}
+
+.archive{
+    background-color: rgb(224, 221, 221);
+    color: rgb(93, 91, 91);
+    width: 80px;
+    height: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 999px;
+    box-shadow: 10px 5px 100pxrgb(231, 220, 220);
+}
