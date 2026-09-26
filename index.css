@@ -1,0 +1,15 @@
+div{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
+
+a{
+    padding: 5px;
+    background-color: antiquewhite;
+    width: 150px;
+    margin-top: 10px;
+    border-radius: 20px;
+    text-align: center;
+    height: auto;
+}
